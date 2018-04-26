@@ -1,0 +1,6 @@
+C:\Users\Noah Bro-Jørgensen\Documents\D&D\Life Path Project\LifePath\LifePath.Common\bin\Debug\LifePath.Common.dll
+C:\Users\Noah Bro-Jørgensen\Documents\D&D\Life Path Project\LifePath\LifePath.Common\bin\Debug\LifePath.Common.pdb
+C:\Users\Noah Bro-Jørgensen\Documents\D&D\Life Path Project\LifePath\LifePath.Common\obj\Debug\LifePath.Common.csprojResolveAssemblyReference.cache
+C:\Users\Noah Bro-Jørgensen\Documents\D&D\Life Path Project\LifePath\LifePath.Common\obj\Debug\LifePath.Common.csproj.CoreCompileInputs.cache
+C:\Users\Noah Bro-Jørgensen\Documents\D&D\Life Path Project\LifePath\LifePath.Common\obj\Debug\LifePath.Common.dll
+C:\Users\Noah Bro-Jørgensen\Documents\D&D\Life Path Project\LifePath\LifePath.Common\obj\Debug\LifePath.Common.pdb

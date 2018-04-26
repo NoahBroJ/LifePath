@@ -1,0 +1,6 @@
+C:\Users\Noah Bro-Jørgensen\Documents\D&D\Life Path Project\LifePath\LifePath.BusinessLayer\bin\Debug\LifePath.BusinessLayer.dll
+C:\Users\Noah Bro-Jørgensen\Documents\D&D\Life Path Project\LifePath\LifePath.BusinessLayer\bin\Debug\LifePath.BusinessLayer.pdb
+C:\Users\Noah Bro-Jørgensen\Documents\D&D\Life Path Project\LifePath\LifePath.BusinessLayer\obj\Debug\LifePath.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Noah Bro-Jørgensen\Documents\D&D\Life Path Project\LifePath\LifePath.BusinessLayer\obj\Debug\LifePath.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Noah Bro-Jørgensen\Documents\D&D\Life Path Project\LifePath\LifePath.BusinessLayer\obj\Debug\LifePath.BusinessLayer.dll
+C:\Users\Noah Bro-Jørgensen\Documents\D&D\Life Path Project\LifePath\LifePath.BusinessLayer\obj\Debug\LifePath.BusinessLayer.pdb
